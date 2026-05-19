@@ -12,7 +12,7 @@
 
 ##  Live Demo
 
-> **[https://enterprise-performance-hub.vercel.app](https://enterprise-performance-hub.vercel.app)**
+> **[https://enterprise-performance-hub.vercel.app](https://enterprise-performance-hub-lime.vercel.app)**
 
 ---
 
@@ -151,7 +151,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/kotlasathyanarayana7/enterprise-performance-hub.git
+git clone https://github.com/ksn2007/enterprise-performance-hub
 cd enterprise-performance-hub
 ```
 
