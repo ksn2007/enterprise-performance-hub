@@ -151,7 +151,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ksn2007/enterprise-performance-hub
+git clone git clone https://github.com/ksn2007/enterprise-performance-hub.git
 cd enterprise-performance-hub
 ```
 
