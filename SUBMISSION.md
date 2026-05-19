@@ -32,7 +32,7 @@ The system was designed against a formal Business Requirements Document (BRD) an
 
 ## Source Code Repository
 
-📁 **[https://github.com/kotlasathyanarayana7/enterprise-performance-hub](https://github.com/kotlasathyanarayana7/enterprise-performance-hub)**
+ **[https://github.com/kotlasathyanarayana7/enterprise-performance-hub](https://github.com/kotlasathyanarayana7/enterprise-performance-hub)**
 
 ---
 
@@ -40,11 +40,10 @@ The system was designed against a formal Business Requirements Document (BRD) an
 
 | Role | Email | Password | Access Level |
 |------|-------|----------|-------------|
-| 👤 Employee | `employee@test.com` | `employee123` | Personal goals, check-ins, self-report export |
-| 👔 Manager | `manager@test.com` | `manager123` | Team approvals, shared KPIs, team export |
-| 🛡️ Admin | `admin@test.com` | `admin123` | Org-wide oversight, unlock goals, full export |
+|  Employee | `employee@test.com` | `employee123` | Personal goals, check-ins, self-report export |
+|  Manager | `manager@test.com` | `manager123` | Team approvals, shared KPIs, team export |
+|  Admin | `admin@test.com` | `admin123` | Org-wide oversight, unlock goals, full export |
 
-> **Alternative Employee login:** `kotlasathyanarayana52@gmail.com` / `111111`
 
 > **Note:** Click **"Initialize Demo Accounts"** on the login page to auto-create all three accounts on first visit.
 
