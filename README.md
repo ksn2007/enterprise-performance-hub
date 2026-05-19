@@ -1,4 +1,4 @@
- Enterprise Performance Hub
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/96b0cfa3-a62b-4881-a6d8-1c4ac5dc73ba" /> Enterprise Performance Hub
 ### AtomQuest Hackathon 1.0 Submission
 
 > A full-stack enterprise goal management and performance tracking system with role-based access, real-time Firestore sync, approval workflows, quarterly check-ins, and exportable achievement reports.
@@ -12,7 +12,7 @@
 
 ##  Live Demo
 
-> **[https://enterprise-performance-hub.vercel.app](https://enterprise-performance-hub-lime.vercel.app)**
+> **[https://enterprise-performance-hub-lime.vercel.app](https://enterprise-performance-hub-lime.vercel.app)**
 
 ---
 
