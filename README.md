@@ -1,4 +1,4 @@
-# 🏆 Enterprise Performance Hub
+ Enterprise Performance Hub
 ### AtomQuest Hackathon 1.0 Submission
 
 > A full-stack enterprise goal management and performance tracking system with role-based access, real-time Firestore sync, approval workflows, quarterly check-ins, and exportable achievement reports.
@@ -10,25 +10,25 @@
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
 > **[https://enterprise-performance-hub.vercel.app](https://enterprise-performance-hub.vercel.app)**
 
 ---
 
-## 🎯 Demo Credentials
+##  Demo Credentials
 
 | Role | Email | Password |
 |------|-------|----------|
-| 👤 Employee | `employee@test.com` | `employee123` |
-| 👔 Manager | `manager@test.com` | `manager123` |
-| 🛡️ Admin | `admin@test.com` | `admin123` |
+|  Employee | `employee@test.com` | `employee123` |
+|  Manager | `manager@test.com` | `manager123` |
+|  Admin | `admin@test.com` | `admin123` |
 
 
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 The **Enterprise Performance Hub** is a production-grade HR performance management portal built for enterprise teams. It enables:
 
@@ -41,7 +41,7 @@ The system is aligned to a formal **Business Requirements Document (BRD)** and i
 
 ---
 
-## ✅ BRD Requirements Coverage
+##  BRD Requirements Coverage
 
 | # | BRD Requirement | Status |
 |---|----------------|--------|
@@ -60,9 +60,9 @@ The system is aligned to a formal **Business Requirements Document (BRD)** and i
 
 ---
 
-## 🚀 Core Features
+##  Core Features
 
-### 👤 Employee
+###  Employee
 - Create and manage up to 8 performance goals per cycle
 - Assign Thrust Area, UoM, Target Value, and Weightage per goal
 - Submit goals for manager approval (requires 100% total weightage)
@@ -70,7 +70,7 @@ The system is aligned to a formal **Business Requirements Document (BRD)** and i
 - View personal performance reports
 - **Export self-report as CSV or Excel**
 
-### 👔 Manager
+###  Manager
 - Review and approve / return employee goal submissions
 - Add feedback comments on returned goals
 - Create and assign Shared KPIs to entire team
@@ -78,14 +78,14 @@ The system is aligned to a formal **Business Requirements Document (BRD)** and i
 - View team analytics and alignment scores
 - **Export team achievement report as CSV or Excel**
 
-### 🛡️ Admin
+###  Admin
 - Full organization-wide goal visibility
 - Unlock locked goals for employee revision
 - Monitor HR compliance metrics and audit trail
 - Manage system-wide goal state
 - **Export org-wide achievement report as CSV or Excel**
 
-### 📊 Achievement Report Export (Final BRD Feature)
+###  Achievement Report Export (Final BRD Feature)
 Each export includes 19 data fields per goal:
 - Employee Name, Email, Department
 - Goal Title, Description, Thrust Area, UoM, Target, Weightage
@@ -95,7 +95,7 @@ Each export includes 19 data fields per goal:
 
 ---
 
-## 🏗️ Technology Stack
+##  Technology Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -109,7 +109,7 @@ Each export includes 19 data fields per goal:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -142,7 +142,7 @@ src/
 
 ---
 
-## ⚙️ Local Setup
+##  Local Setup
 
 ### Prerequisites
 - Node.js 18+
@@ -193,7 +193,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🚀 Deployment on Vercel
+##  Deployment on Vercel
 
 1. Push this repository to GitHub
 2. Go to [vercel.com](https://vercel.com) → Import Project
@@ -203,7 +203,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🔐 Firebase Firestore Collections
+##  Firebase Firestore Collections
 
 | Collection | Purpose |
 |-----------|---------|
@@ -214,19 +214,19 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📐 Architecture
+##  Architecture
 
 See `docs/architecture_diagram.png` for the full system architecture diagram.
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Kotla Sathyanarayana**
 AtomQuest Hackathon 1.0 — Enterprise Category
 
 ---
 
-## 📄 License
+##  License
 
 This project was built for the AtomQuest Hackathon 1.0 competition.
