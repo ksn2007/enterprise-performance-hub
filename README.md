@@ -24,7 +24,7 @@
 | 👔 Manager | `manager@test.com` | `manager123` |
 | 🛡️ Admin | `admin@test.com` | `admin123` |
 
-> Alternative Employee login: `kotlasathyanarayana52@gmail.com` / `111111`
+
 
 ---
 
