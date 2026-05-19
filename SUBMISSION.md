@@ -24,7 +24,7 @@ The system was designed against a formal Business Requirements Document (BRD) an
 
 ## Hosted Demo URL
 
-🔗 **[https://enterprise-performance-hub.vercel.app](https://enterprise-performance-hub.vercel.app)**
+🔗 **[https://enterprise-performance-hub.vercel.app](https://enterprise-performance-hub-lime.vercel.app)**
 
 *(Replace with actual Vercel URL after deployment)*
 
@@ -32,7 +32,7 @@ The system was designed against a formal Business Requirements Document (BRD) an
 
 ## Source Code Repository
 
- **[https://github.com/kotlasathyanarayana7/enterprise-performance-hub](https://github.com/kotlasathyanarayana7/enterprise-performance-hub)**
+ **[https://github.com/kotlasathyanarayana7/enterprise-performance-hub](https://github.com/ksn2007/enterprise-performance-hubb)**
 
 ---
 
